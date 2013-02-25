@@ -3,7 +3,7 @@
 ## Definitions
 
 **Developer**:
-Name of Individual issuing this contract.
+Benjamin Fields, an individual having his place of residence at []
 
 **Client**:
 Name of Company or individual entering into this contract with the Developer.
@@ -22,7 +22,7 @@ Knowledge about solutions to problems, methods, or designs.
 ## Terms
 
 1. **Rate**:
-Services shall be billed to the Client at the rate of $__ USD per hour.
+Services shall be billed to the Client at the rate of £__ GBP per hour.
 
 2. **Payment**:
 The Client shall send payment to the Developer within 30 days of receiving
@@ -30,7 +30,7 @@ an invoice.
 	
 	1. **Late Payment**:
 	If a payment is more than 7 days late, no Services will be performed for the
-	Client until payment is received.
+	Client until payment is received and late fees may be assessed.
 
 3. **Billable Time**:
 All time spent performing Services and communicating with the Client is
